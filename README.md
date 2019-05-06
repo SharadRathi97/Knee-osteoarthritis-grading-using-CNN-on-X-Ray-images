@@ -1,0 +1,2 @@
+# Knee-osteoarthritis-grading-using-CNN-on-X-Ray-images
+Using CNN to analyse X-Ray film images of patients and classify them according to the severity of the Osteoarthritis. There are 5 grades/classes labelled as 0, 1, 2, 3, and 4 in increasing order of severity. The severity depends on the distance between the the two knee caps, smaller the distance, more severe the Osteoarthritis. The dataset has been obtained from Mendeley Osteoarthritis grading set.
